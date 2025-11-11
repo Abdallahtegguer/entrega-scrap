@@ -35,8 +35,8 @@ Para ejecutar el proyecto, instalar los módulos requeridos:
 pip install -r requirements.txt
 
 Ejecución
-
-Desde la carpeta raíz del proyecto:
+en primero debera activar el virtual environment venv 
+en el terminal python scraper.py para la ejecucion del codigo y pues el codigo va descargar todos los datos en el fochero dataset
 
 python src/scraper.py
 
@@ -46,4 +46,5 @@ Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.
 
 Mitchell, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O’Reilly Media, Inc.
 
-Documentación oficial de BeautifulSoup, Requests y Pandas.
+Documentación oficial de BeautifulSoup, Requests y Pandas. 
+zenodo link : https://zenodo.org/records/17584725?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImRhYTg3YTQ1LWFlNTMtNDVkNS1iOGJjLTNmNjQ1YzJlNmVmNSIsImRhdGEiOnt9LCJyYW5kb20iOiI1YTcxMTJlY2Y0ZWJiYzk3YjE0MWJmNTgyNDRlMzk4ZCJ9.qgI1iVgoThHZwIDevIDkXy-JH8GT-_mclFA6vi8NcFD4yoJQivuM9Gde9Oql_xna-CzWVO5H97Y0ptuX4xKevw
